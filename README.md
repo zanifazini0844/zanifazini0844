@@ -1,20 +1,20 @@
-<h1 align="center">I'm Zanifa Islam 👋</h1>
+<h1 align="center">I'm Zanifa Islam</h1>
 <h3 align="center">Undergraduate ECE Student| Aspiring Researcher | Machine Learning & AI Enthusiast | Passionate About Problem Solving & Teaching</h3>
 
 ---
-## 🚀 About Me  
+## About Me  
 I am a 3rd-year **Electrical & Computer Engineering (ECE)** undergraduate at **RUET**, passionate about **machine learning, research, full-stack development, and competitive programming**.  
 I enjoy solving real-world problems, teaching others, and exploring the intersection of algorithms and intelligent systems.
 
-- 💡 Aspiring **researcher** and future **university teacher**  
-- 📚 Motivated to pursue a **PhD in Machine Learning / Artificial Intelligence**  
-- 💻 Strong in **Python, MERN stack, DSA, Algorithms**  
-- 🧠 Solved **500+ problems** on CF, Vjudge  
-- 👩‍🏫 Passionate about **teaching, mentoring, and sharing knowledge**  
-- 🎯 Long-term Goal: Contribute to impactful research and teach in a leading university. 
+- Aspiring **researcher** and future **university teacher**  
+- Motivated to pursue a **PhD in Machine Learning / Artificial Intelligence**  
+- Strong in **Python, MERN stack, DSA, Algorithms**  
+- Solved **500+ problems** on CF, Vjudge  
+- Passionate about **teaching, mentoring, and sharing knowledge**  
+- Long-term Goal: Contribute to impactful research and teach in a leading university. 
 
 
-## 🛠️ Technical Skills  
+## Technical Skills  
 
 ### **Languages**
 - C, C++, Python, Java, SQL
@@ -39,10 +39,10 @@ I enjoy solving real-world problems, teaching others, and exploring the intersec
 
 ---
 
-## 💻 Featured Project  
+## Featured Project  
 
-### 🌿 **MERN E-Commerce Website – Skin Care Products**  
-🔗 GitHub Repository: https://github.com/zanifazini0844/E-Commerce-Website
+### **MERN E-Commerce Website – Skin Care Products**  
+GitHub Repository: https://github.com/zanifazini0844/E-Commerce-Website
 
 **Tech Stack:** MongoDB, Express.js, React, Node.js  
 
@@ -55,7 +55,7 @@ I enjoy solving real-world problems, teaching others, and exploring the intersec
 
 ---
 
-## 📊 Problem Solving Stats  
+## Problem Solving Stats  
 
 - **Codeforces:** 500+ problems solved (Max Rating: 1095)  
 - **CodeChef:** 500+ difficulty problem solved  
@@ -65,16 +65,12 @@ I regularly solve problems to improve my **logic**, **efficiency**, and **algori
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 
-- 📧 Email: **zanifaislam000@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/zanifa-islam-812249181/  
-- 💻 GitHub: https://github.com/zanifazini0844  
-
----
-
-## ⭐ Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=zanifazini0844&style=flat-square)
+- Email: **zanifaislam000@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/zanifa-islam-812249181/  
+- GitHub: https://github.com/zanifazini0844  
 
 ---
+
 
