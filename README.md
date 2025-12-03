@@ -1,76 +1,72 @@
-<h1 align="center">I'm Zanifa Islam</h1>
-<h3 align="center">Undergraduate ECE Student| Aspiring Researcher | Machine Learning & AI Enthusiast | Passionate About Problem Solving & Teaching</h3>
-
----
-## About Me  
-I am a 3rd-year **Electrical & Computer Engineering (ECE)** undergraduate at **RUET**, passionate about **machine learning, research, full-stack development, and competitive programming**.  
-I enjoy solving real-world problems, teaching others, and exploring the intersection of algorithms and intelligent systems.
-
-- Aspiring **researcher** and future **university teacher**  
-- Motivated to pursue a **PhD in Machine Learning / Artificial Intelligence**  
-- Strong in **Python, MERN stack, DSA, Algorithms**  
-- Solved **500+ problems** on CF, Vjudge  
-- Passionate about **teaching, mentoring, and sharing knowledge**  
-- Long-term Goal: Contribute to impactful research and teach in a leading university. 
-
-
-## Technical Skills  
-
-### **Languages**
-- C, C++, Python, Java, SQL
-
-### **Web Technologies**
-- HTML, CSS, JavaScript
-
-### **Frameworks & Libraries**
-- Node.js, Express.js, React, MERN Stack, Django
-
-### **Databases**
-- MongoDB
-
-### **Tools**
-- Git, GitHub, Postman
-
-### **Core Concepts**
-- Data Structures & Algorithms  
-- OOP  
-- Problem Solving  
-- Competitive Programming  
+# About Me
+I am an Electrical and Computer Engineering undergraduate at RUET with academic and project experience in machine learning, privacy-preserving artificial intelligence, deep learning, embedded systems, and full-stack web development. I am also involved in research on Federated Learning and Differential Privacy under the supervision of Md. Faysal Ahamed. I enjoy building real-world systems, solving competitive programming problems, and contributing to research-oriented projects.
 
 ---
 
-## Featured Project  
+# Technical Skills
 
-### **MERN E-Commerce Website – Skin Care Products**  
-GitHub Repository: https://github.com/zanifazini0844/E-Commerce-Website
+## Programming
+C, C++, Java, Python, MATLAB, Assembly Language
 
-**Tech Stack:** MongoDB, Express.js, React, Node.js  
+## Machine Learning / AI
+Supervised and Unsupervised Learning, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, Federated Learning (FL), Differential Privacy (DP)
 
-**Key Features:**  
-- Secure **authentication & role-based access**  
-- Product management system  
-- Dynamic UI with React  
-- Shopping cart functionality  
-- REST API integration  
+## Web Development
+**Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, React Router, Axios  
+**Backend:** Node.js, Express.js, REST API, JWT Authentication, bcrypt, Middleware  
+**Database:** MongoDB, MongoDB Atlas, Mongoose  
 
----
-
-## Problem Solving Stats  
-
-- **Codeforces:** 500+ problems solved (Max Rating: 1095)  
-- **CodeChef:** 500+ difficulty problem solved  
-- **Vjudge:** 50+ problems solved  
-
-I regularly solve problems to improve my **logic**, **efficiency**, and **algorithmic thinking**.
+## Tools
+Git, GitHub, VS Code, Postman, Google Colab, Jupyter Notebook, LaTeX, EMU8086, MS Office Suite
 
 ---
 
-## Connect With Me  
+# Featured Projects
 
-- Email: **zanifaislam000@gmail.com**  
-- LinkedIn: https://www.linkedin.com/in/zanifa-islam-812249181/  
-- GitHub: https://github.com/zanifazini0844  
+## MERN E-Commerce Website (Skin Care Products)
+Repository: https://github.com/zanifazini0844/E-Commerce-Website  
+A complete full-stack e-commerce web application that includes product search, filtering, authentication (user/admin), shopping cart, order system, and admin dashboard with full CRUD operations.
+
+Technologies: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
 
 ---
 
+## Line Following Robot
+Repository: https://github.com/zanifazini0844/Line-Following-Robot  
+A robot capable of autonomously following a line using IR sensors and PID-based corrections for path accuracy.
 
+---
+
+## DC Motor Speed Control Using PWM (Chopper Circuit)
+Repository: https://github.com/zanifazini0844/DC-Motor-Speed-Control-Using-Chopper-Circuit  
+A PWM-based DC motor speed control system built using a 555 timer IC, supporting a speed range from 360 RPM to 2830 RPM.
+
+---
+
+# Research Interests
+- Privacy-Preserving Machine Learning  
+- Federated Learning  
+- Differential Privacy  
+- Deep Learning  
+- Model Optimization  
+- Embedded AI Systems  
+
+---
+
+# Education
+Bachelor of Science in Electrical and Computer Engineering  
+Rajshahi University of Engineering & Technology (RUET)  
+CGPA: 3.76 / 4.00 (up to 5th semester)  
+2023 – Present
+
+---
+
+# Problem Solving & Competitive Programming
+Solved more than 500 problems across platforms including Codeforces.
+
+---
+
+# Contact
+Email: zanifaislam000@gmail.com  
+GitHub: https://github.com/zanifazini0844  
+LinkedIn: https://www.linkedin.com/in/zanifa-islam-812249181/
